@@ -1,0 +1,10 @@
+body {
+  background: linear-gradient(rgb(64, 64, 239), rgb(241, 183, 76));
+  color: aliceblue;
+}
+
+.wrapper {
+  height: 100vh;
+  max-width: 1000px;
+  margin: auto;
+}
